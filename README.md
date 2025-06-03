@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/adriano-moreira-428511264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalo oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adriano-moreira-428511264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalo oliveira" height="30" width="40" /></a>
 <a href="https://www.instagram.com/adrianosm99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goncalo_g0d" height="30" width="40" /></a>
 <a href="https://discord.gg/discordapp.com/users/458771028802273291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/280037356239847425" height="30" width="40" /></a>
 </p>
