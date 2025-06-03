@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="80" height="40"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="40"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="80" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/>
+<img src="https://play-lh.googleusercontent.com/ee8GjOdx7E-lS3BBKz13LNFjTiq_SS0Ag-NpyHUJLS3iWKbGRDXhtXZz6E1TNTWX7JM" width="40" height="40"/>
+<img src="https://img.icons8.com/color/600/c-programming.png" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoSilvaMoreira&show_icons=true&theme=dark&locale=en&layout=compact" alt="AdrianoSilvaMoreira" /></p>
