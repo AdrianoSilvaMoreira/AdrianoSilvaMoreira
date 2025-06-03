@@ -29,5 +29,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianoSilvaMoreira&label=Profile%20views&color=0e75b6&style=flat" alt="AdrianoSilvaMoreira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g0dz4ll0" alt="AdrianoSilvaMoreira" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdrianoSilvaMoreira" alt="AdrianoSilvaMoreira" /></a> </p>
 
