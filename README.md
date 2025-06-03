@@ -15,11 +15,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g0dz4ll0&show_icons=true&theme=dark&locale=en&layout=compact" alt="g0dz4ll0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoSilvaMoreira&show_icons=true&theme=dark&locale=en&layout=compact" alt="AdrianoSilvaMoreira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g0dz4ll0&show_icons=true&theme=dark&locale=en" alt="g0dz4ll0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoSilvaMoreira&show_icons=true&theme=dark&locale=en" alt="AdrianoSilvaMoreira" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g0dz4ll0&label=Profile%20views&color=0e75b6&style=flat" alt="g0dz4ll0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianoSilvaMoreira&label=Profile%20views&color=0e75b6&style=flat" alt="AdrianoSilvaMoreira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g0dz4ll0" alt="g0dz4ll0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g0dz4ll0" alt="AdrianoSilvaMoreira" /></a> </p>
 
