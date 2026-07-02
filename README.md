@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Adriano Moreira</h1>
-<h3 align="center">A passionate 26 years old Game Developer from Portugal currently studying in 42</h3>
+<h3 align="center">A passionate 26 years old Game Developer from Portugal</h3>
 
 - 🔭 I’m currently working on **SpiritSunder** as 3d artist, pixel artist and 3d animator. The game is a 3D First Person Fast Paced Roguelike made for the jacksepticeye gamejam.
 
