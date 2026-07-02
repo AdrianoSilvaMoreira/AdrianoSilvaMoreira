@@ -23,11 +23,4 @@
 <img src="https://img.icons8.com/color/600/c-programming.png" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoSilvaMoreira&show_icons=true&theme=dark&locale=en&layout=compact" alt="AdrianoSilvaMoreira" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoSilvaMoreira&show_icons=true&theme=dark&locale=en" alt="AdrianoSilvaMoreira" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianoSilvaMoreira&label=Profile%20views&color=0e75b6&style=flat" alt="AdrianoSilvaMoreira" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdrianoSilvaMoreira" alt="AdrianoSilvaMoreira" /></a> </p>
 
