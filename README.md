@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Adriano Moreira</h1>
 <h3 align="center">A passionate 26 years old Game Developer from Portugal currently studying in 42</h3>
 
-- 🔭 I’m currently working on **FleshByte** as concept artist, a 3D First Person Fast Paced Roguelike with procedural dungeons
+- 🔭 I’m currently working on **SpiritSunder** as 3d artist, pixel artist and 3d animator. The game is a 3D First Person Fast Paced Roguelike made for the jacksepticeye gamejam.
 
-- 🌱 I’m currently learning programming in **C on 42**
+- 🌱 I’m currently taking formation to be a Quality and Sustainability Technician.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
